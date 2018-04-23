@@ -8,6 +8,7 @@ I am going to explain in simple terms some of the most well-known algorithms. I'
 There are currently two algorithms you can check out:
 - Linear Regression
 - Logistic Regression
+- K-Means
 
 There are many more to come, alongside some more advance topics that I will want to show you all.
 
