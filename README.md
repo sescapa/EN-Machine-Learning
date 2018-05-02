@@ -5,10 +5,11 @@ Machine Learning is extremely useful, and there are plenty of libraries (Scikit-
 
 I am going to explain in simple terms some of the most well-known algorithms. I'm going to show you the math behind it, as well as how easy it is to code something simple yet extremely useful. All of the programing will be done in Python.
 
-There are currently two algorithms you can check out:
+Here are the current algorithms you can look at:
 - Linear Regression
 - Logistic Regression
 - K-Means
+- Simple Neural Network
 
 There are many more to come, alongside some more advance topics that I will want to show you all.
 
